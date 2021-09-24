@@ -1,0 +1,54 @@
+html{  
+	color: white; 
+	background-image: url("https://bit.ly/2ZoIwpj"); 
+	background-repeat: no-repeat; 
+	background-position: center; 
+	background-size: cover; 
+	background-attachment: fixed;
+}
+
+h1{
+color: 0000ff;
+text-align: center;
+font-size: x-large;
+}
+
+.didascalia{
+	font-size: medium;
+}
+.sinistra{
+	margin-left: 10%;
+}
+.centrato{
+	margin-left: 7%;
+}
+.destra{
+	margin-left: 7%;
+}
+.bottone{
+color: grey;
+}
+
+img{
+	width: 265px;
+	height: 200px;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: orange;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
+

@@ -1,0 +1,80 @@
+html{  
+	background-color: violet; 
+	display: flex;
+	flex-wrap: wrap;
+}
+h1{
+color: 0000ff;
+text-align: center;
+font-size: xx-large;
+}
+
+h2{
+color: red;	
+text-align: center;
+font-size: xx-large;
+}
+
+button{
+	color: orange;
+	background-color: lightblue;
+	font-size: x-large;
+}
+p{
+color: green;
+text-align: center;
+font-size: x-large;
+font-weight: 800;
+}
+
+.indirizzi{
+color: green;
+text-align: center;
+font-size: x-large;
+font-weight: 800;
+}
+
+.logo{
+	margin-right: 5%;
+	width: 180px;
+	height: 130px;
+}
+.blu{
+	color: blue;
+}
+.scuola{
+	width: 300px;
+	height: 200px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #696969;
+}
+
+li{
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+}
+
+table,th,td{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  border: 2px solid black;
+  width: 50%;
+  text-align: center;
+  font-size: large;
+}
+tr{
+  background-color: #dddddd;
+}
